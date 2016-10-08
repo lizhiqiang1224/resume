@@ -334,60 +334,60 @@ html,body{
     -webkit-animation: lightSpeedIn 1.5s 2s both;
 }
 #page2 img:nth-child(8){
-    animation: flipInX 1s 2.5s both;
-    -webkit-animation: flipInX 1s 2.5s both;
+    animation: zoomIn 1s 2.5s both;
+    -webkit-animation: zoomIn 1s 2.5s both;
 }
 #page2 img:nth-child(9){
-    animation: flipInX 1s 2.8s both;
-    -webkit-animation: flipInX 1s 2.8s both;
+    animation: zoomIn 1s 2.8s both;
+    -webkit-animation: zoomIn 1s 2.8s both;
 }
 #page2 img:nth-child(10){
-    animation: flipInX 1s 3.1s both;
-    -webkit-animation: flipInX 1s 3.1s both;
+    animation: zoomIn 1s 3.1s both;
+    -webkit-animation: zoomIn 1s 3.1s both;
 }
 #page2 img:nth-child(11){
-    animation: flipInX 1s 3.4s both;
-    -webkit-animation: flipInX 1s 3.4s both;
+    animation: zoomIn 1s 3.4s both;
+    -webkit-animation: zoomIn 1s 3.4s both;
 }
 #page2 img:nth-child(12){
-    animation: flipInX 1s 3.7s both;
-    -webkit-animation: flipInX 1s 3.7s both;
+    animation: zoomIn 1s 3.7s both;
+    -webkit-animation: zoomIn 1s 3.7s both;
 }
 #page2 img:nth-child(13){
-    animation: flipInX 1s 4s both;
-    -webkit-animation: flipInX 1s 4s both;
+    animation: zoomIn 1s 4s both;
+    -webkit-animation: zoomIn 1s 4s both;
 }
 #page2 img:nth-child(14){
     animation: rotateIn 1s 6.4s both;
     -webkit-animation: rotateIn 1s 6.4s both;
 }
 #page2 img:nth-child(15){
-    animation: flipInX 1s 4.3s both;
-    -webkit-animation: flipInX 1s 4.3s both;
+    animation: zoomIn 1s 4.3s both;
+    -webkit-animation: zoomIn 1s 4.3s both;
 }
 #page2 img:nth-child(16){
-    animation: flipInX 1s 4.6s both;
-    -webkit-animation: flipInX 1s 4.6s both;
+    animation: zoomIn 1s 4.6s both;
+    -webkit-animation: zoomIn 1s 4.6s both;
 }
 #page2 img:nth-child(17){
-    animation: flipInX 1s 4.9s both;
-    -webkit-animation: flipInX 1s 4.9s both;
+    animation: zoomIn 1s 4.9s both;
+    -webkit-animation: zoomIn 1s 4.9s both;
 }
 #page2 img:nth-child(18){
-    animation: flipInX 1s 5.2s both;
-    -webkit-animation: flipInX 1s 5.2s both;
+    animation: zoomIn 1s 5.2s both;
+    -webkit-animation: zoomIn 1s 5.2s both;
 }
 #page2 img:nth-child(19){
-    animation: flipInX 1s 5.5s both;
-    -webkit-animation: flipInX 1s 5.5s both;
+    animation: zoomIn 1s 5.5s both;
+    -webkit-animation: zoomIn 1s 5.5s both;
 }
 #page2 img:nth-child(20){
-    animation: flipInX 1s 5.8s both;
-    -webkit-animation: flipInX 1s 5.8s both;
+    animation: zoomIn 1s 5.8s both;
+    -webkit-animation: zoomIn 1s 5.8s both;
 }
 #page2 img:nth-child(21){
-    animation: flipInX 1s 6.1s both;
-    -webkit-animation: flipInX 1s 6.1s both;
+    animation: zoomIn 1s 6.1s both;
+    -webkit-animation: zoomIn 1s 6.1s both;
 }
 
 /*slide3*/
@@ -412,43 +412,43 @@ html,body{
 .slide3 img:nth-child(3){
     width: 5.74rem;
     height: 5.44rem;
-    top:1.68rem;
+    top:2.18rem;
     left: 0.8rem;
 }
 .slide3 img:nth-child(4){
     width: 8.26rem;
     height: 7.49rem;
-    top:1.6rem;
+    top:2.1rem;
     left: 1.6rem;
 }
 .slide3 img:nth-child(5){
     width: 4.96rem;
     height: 6.66rem;
-    bottom:-2.72rem;
+    bottom:-3.02rem;
     left: .45rem;
 }
 .slide3 img:nth-child(6){
     width: 3.08rem;
     height: 1.26rem;
-    top:.6rem;
+    top:1.1rem;
     left: 2.2rem;
 }
 .slide3 img:nth-child(7){
     width: 2.81rem;
     height: 2.12rem;
-    top:2.3rem;
+    top:2.8rem;
     left: .95rem;
 }
 .slide3 img:nth-child(8){
     width: 3.10rem;
     height: 1.75rem;
-    top:5.7rem;
+    top:6.2rem;
     right: .3rem;
 }
 .slide3 img:nth-child(9){
     width: 2.95rem;
     height: 1.73rem;
-    bottom:1.3rem;
+    bottom:1.0rem;
     left: .7rem;
 }
 
@@ -582,8 +582,8 @@ html,body{
     -webkit-animation: zoomIn 1s 1.5s both;
 }
 #page4 img:nth-child(7){
-    animation: flipInY 1s 1.8s both;
-    -webkit-animation: flipInY 1s 1.8s both;
+    animation: bounceInDown 1s 1.8s both;
+    -webkit-animation: bounceInDown 1s 1.8s both;
 }
 #page4 img:nth-child(8){
     animation: bounceInDown 1s 2.1s both;
